@@ -1,0 +1,17 @@
+[
+  {
+    "sportName": "Soccer",
+    "sportId": "03753485sfdf322",
+    "sportIcon": "https://icons.iconarchive.com/icons/icons8/ios7/256/Sports-Exercise-icon.png"
+  },
+    {
+    "sportName": "Swimming",
+    "sportId": "3456tesdfsdf",
+    "sportIcon": "https://icons.iconarchive.com/icons/icons8/ios7/256/Sports-Swimming-icon.png"
+  },
+  {
+    "sportName": "Cricket",
+    "sportId": "sdfdf34sdfsd",
+    "sportIcon": "https://icons.iconarchive.com/icons/iconsmind/outline/256/Cricket-icon.png"
+  }
+]
