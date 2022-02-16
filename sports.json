@@ -13,25 +13,5 @@
     "sportName": "Cricket",
     "sportId": "sdfdf34sdfsd",
     "sportIcon": "https://icons.iconarchive.com/icons/iconsmind/outline/256/Cricket-icon.png"
-  },
-  {
-    "sportName": "Hockey",
-    "sportId": "sdfdf34ssdfsdfsdfdfsd",
-    "sportIcon": "https://icons.iconarchive.com/icons/iconsmind/outline/256/Cricket-icon.png"
-  },
-  {
-    "sportName": "Dancing",
-    "sportId": "sadasfdsgsdfgfg",
-    "sportIcon": "https://icons.iconarchive.com/icons/iconsmind/outline/256/Cricket-icon.png"
-  },
-  {
-    "sportName": "Parkour",
-    "sportId": "sadasfdsgdsdssdfgfg",
-    "sportIcon": "https://icons.iconarchive.com/icons/iconsmind/outline/256/Cricket-icon.png"
-  },
-  {
-    "sportName": "Something Else",
-    "sportId": "sadasfdsgssdsdsdsdsdfgfg",
-    "sportIcon": "https://icons.iconarchive.com/icons/iconsmind/outline/256/Cricket-icon.png"
   }
 ]
