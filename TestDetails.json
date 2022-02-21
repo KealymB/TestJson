@@ -1,0 +1,40 @@
+{
+  "ranks": [
+    {
+      "rankId": "344545r4tsd",
+      "position": 245,
+      "numParticipants": 420,
+      "rankName": "NPR Rank"
+    },
+    {
+      "rankId": "344545r4tgsd",
+      "position": 2,
+      "numParticipants": 100,
+      "rankName": "Team Rank"
+    },
+    {
+      "rankId": "344545r4tshsfd",
+      "position": 1,
+      "numParticipants": 10,
+      "rankName": "Province Rank"
+    },
+    {
+      "rankId": "34454rty45r4tsd",
+      "position": 5,
+      "numParticipants": 42,
+      "rankName": "Country Rank"
+    },
+    {
+      "rankId": "34dfdf4545sdfdsdfr4tsd",
+      "position": 10,
+      "numParticipants": 40,
+      "rankName": "Continent Rank"
+    },
+    {
+      "rankId": "344xcv545r4tsd",
+      "position": 22,
+      "numParticipants": 20,
+      "rankName": "World Rank"
+    }
+  ]
+}
